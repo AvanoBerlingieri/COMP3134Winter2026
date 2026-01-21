@@ -1,0 +1,14 @@
+Tracing route to 178.128.239.190 over a maximum of 30 hops
+
+  1    22 ms     9 ms    15 ms  10.4.64.1
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10    69 ms    35 ms    23 ms  178.128.239.190
+
+Trace complete.

@@ -1,0 +1,44 @@
+stackoverflow
+IP:		198.252.206.1
+Country:	United States of America
+State:		New York
+City:		New York City
+Latitude:	40.7131
+Longitude:	-74.0060
+ISP:		Stack Exchange Inc.
+
+netfilx
+IP:		50.17.247.9
+Country:	United States of America
+State:		Virginia
+City:		Ashburn
+Latitude:	39.0394
+Longitude:	-77.4918
+ISP:		Amazon Technologies Inc.
+
+facebook  
+IP:		31.13.80.36
+Country:	Canada
+State:		Ontario
+City:		Toronto
+Latitude:	43.6536
+Longitude:	-79.3829
+ISP:		Meta Platforms Ireland Limited
+
+youtube  
+IP:		142.251.40.142
+Country:	United States of America
+State:		New York
+City:		New York City
+Latitude:	40.7131
+Longitude:	-74.0060
+ISP:		Google LLC
+
+amazon
+IP:		98.87.171.159
+Country:	United States of America
+State:		Virginia
+City:		Ashburn
+Latitude:	39.0394
+Longitude:	-77.4918
+ISP:		Amazon Technologies Inc.
